@@ -18,7 +18,7 @@ The Basic Calculator App is a simple yet powerful calculator application that al
 ## Installation
 
 You can download the pre-built `app-debug.apk` file from the following location:
-[Download APK](/app/build/outputs/apk/debug/app-debug.apk)
+[Download APK](/app-debug.apk)
 
 Alternatively, you can build the app from the source code using Android Studio:
 
